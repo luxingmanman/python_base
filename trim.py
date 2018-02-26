@@ -20,4 +20,4 @@ elif trim('') != '':
 elif trim('    ') != '':
     print('测试失败!')
 else:
-    print('测试成功!')
+    print('测试成功！！！!')
